@@ -1,0 +1,7 @@
+venv/
+downloaded_files/
+latest_logs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.db
